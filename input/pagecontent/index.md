@@ -11,7 +11,7 @@ Digital Adaptation Kits (DAKs) are designed to facilitate the accurate reflectio
 
 The DAK for postnatal care and the associated implementation tools can be found here: 
 
-- [Published DAK Document]()
+- [Published DAK Document](https://iris.who.int/handle/10665/381725)
 - Implementation tools: 
     - [Link to core data dictionary](https://smart.who.int/dak-pnc/dictionary.html)
     - [Link to decision-support logic](https://smart.who.int/dak-pnc/decision-logic.html) 
@@ -44,7 +44,3 @@ For more license details please see the [license page](https://smart.who.int/dak
 
 ### Providing Feedback
 {% include feedback.md %}
-
-<!-- for main branch of DAK repos only, remove while releases -->
-### Disclaimer
-The specification herewith documented is a demo working specification and may not be used for any implementation purposes. This draft is provided without warranty of completeness or consistency and the official publication supersedes this draft. No liability can be inferred from the use or misuse of this specification or its consequences.

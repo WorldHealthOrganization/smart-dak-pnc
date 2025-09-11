@@ -14,7 +14,7 @@ this work, there should be no suggestion that WHO endorses any specific organiza
 must license your work under the same or equivalent Creative Commons licence. </p>
 
 <p><b>Suggested citation.</b>  Digital adaptation kit for postnatal care: operational requirements for implementing WHO recommendations in digital systems.
-Geneva: World Health Organization; 2025 (SMART Guidelines collection). <mark>[add IRIS link here]</mark>. Licence: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/igo/">CC BY-NC-SA 3.0 IGO</a>. </p>
+Geneva: World Health Organization; 2025 (SMART Guidelines collection). <a rel="iris" href="https://iris.who.int/handle/10665/381725">https://iris.who.int/handle/10665/381725</a>. Licence: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/igo/">CC BY-NC-SA 3.0 IGO</a>. </p>
 
 <p>If you create a translation or adaptation of this work, you should add the following disclaimer along with the suggested citation: <q>This translation/adaptation was not created by the World 
 Health Organization (WHO). WHO is not responsible for the content or accuracy of this translation/adaptation. The original English edition shall be the binding and authentic edition</q>. </p>
