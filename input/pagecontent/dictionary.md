@@ -7,6 +7,7 @@ concept dictionary codes.
 | Version | Link |
 |---|---|
 | current* | [PNC DAK_core data dictionary.xlsx](PNC DAK_core data dictionary.xlsx) |
+|1.0.0 | [PNC DAK_core data dictionary.xlsx](https://smart.who.int/dak-pnc/v1.0.0/PNC DAK_core data dictionary.xlsx) |
 |0.9.9 | [PNC DAK_core data dictionary.xlsx](https://smart.who.int/dak-pnc/v0.9.9/PNC DAK_core data dictionary.xlsx) |
 
 *The current link indicates the latest release of the file. Note: the file's latest release might not always match the release number of the Implementation Guide.
