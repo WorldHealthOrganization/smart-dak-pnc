@@ -4,7 +4,7 @@ For additional resources, see theÂ <a href="dependencies.html">Dependencies</a>Â
 
 ### WHO Digital Adaptation Kit (DAK) for postnatal care (PNC)
 
-The Digital Adaptation Kit is available at [link to be provided](). 
+The Digital Adaptation Kit is available at [https://iris.who.int/handle/10665/381725](https://iris.who.int/handle/10665/381725). 
 
 ### WHO guideline development
     

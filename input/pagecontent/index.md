@@ -13,10 +13,10 @@ The DAK for postnatal care and the associated implementation tools can be found 
 
 - [Published DAK Document](https://iris.who.int/handle/10665/381725)
 - Implementation tools: 
-    - [Link to core data dictionary](https://smart.who.int/dak-pnc/dictionary.html)
-    - [Link to decision-support logic](https://smart.who.int/dak-pnc/decision-logic.html) 
-    - [Link to indicators table](https://smart.who.int/dak-pnc/indicators.html)
-    - [Link to functional and non functional requirements](https://smart.who.int/dak-pnc/system-requirements.html)
+    - [Link to core data dictionary](dictionary.html)
+    - [Link to decision-support logic](decision-logic.html) 
+    - [Link to indicators table](indicators.html)
+    - [Link to functional and non functional requirements](system-requirements.html)
 
 ### L3 Machine readable guidelines
 The L3 FHIR Implementation Guide for the postnatal care SMART Guidelines is not yet available.
@@ -40,7 +40,7 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by-nc-sa/3.0/igo/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%203.0-lightgrey.svg
 
-For more license details please see the [license page](https://smart.who.int/dak-pnc/license.html).
+For more license details please see the [license page](license.html).
 
 ### Providing Feedback
 {% include feedback.md %}
