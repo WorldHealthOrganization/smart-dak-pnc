@@ -31,4 +31,3 @@ represent approximate border lines for which there may not yet be full agreement
 are not mentioned. Errors and omissions excepted, the names of proprietary products are distinguished by initial capital letters. </p>
 <p>All reasonable precautions have been taken by WHO to verify the information contained in this publication. However, the published material is being distributed without warranty of any 
 kind, either expressed or implied. The responsibility for the interpretation and use of the material lies with the reader. In no event shall WHO be liable for damages arising from its use.</p>
-</div>

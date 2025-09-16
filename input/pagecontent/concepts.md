@@ -1,1 +1,1 @@
-Please consult the "Glossary" section of the PNC DAK for the key terms and the "Abbreviations" section for the abbreviations used in the DAK.
+Please consult the "Glossary" section of the [PNC DAK](https://iris.who.int/handle/10665/381725) for the key terms and the "Abbreviations" section for the abbreviations used in the DAK.

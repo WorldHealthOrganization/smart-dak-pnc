@@ -2,7 +2,7 @@ A persona is a depiction of a relevant stakeholder, or end user, of the system. 
 
 ### Targeted generic personas 
 
-The targeted personas for this Digital Adaptation Kit (DAK) are health workers operating in care settings that are able to provide the required essential interventions for the delivery of postnatal care. The key competences of midwives, nurses, physicians and community health workers (CHWs) are the primary health worker personas for the digital client health record and decision-support system. The key competences of these health workers are defined by WHO in the Table 2 of the DAK. 
+The targeted personas for this Digital Adaptation Kit (DAK) are health workers operating in care settings that are able to provide the required essential interventions for the delivery of postnatal care. The key competences of midwives, nurses, physicians and community health workers (CHWs) are the primary health worker personas for the digital client health record and decision-support system. The key competences of these health workers are defined by WHO in the Table 2 of the [DAK](https://iris.who.int/handle/10665/381725). 
 
 ### Related personas 
 
