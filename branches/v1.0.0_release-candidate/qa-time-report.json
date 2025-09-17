@@ -1,0 +1,52 @@
+{
+  "date" : "Wed, 17 Sep, 2025 07:54:27 +0000",
+  "doco" : "For each file: start is seconds after start activity occurred. Length = milliseconds activity took",
+  "files" : [
+    {
+      "name" : "/fsh-generated/resources/ImplementationGuide-smart.who.int.dak-pnc.json",
+      "size" : 7069,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 46,
+          "length" : 63
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 47,
+          "length" : 10
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 47,
+          "length" : 131
+        },
+        {
+          "activity" : "validate",
+          "start" : 47,
+          "length" : 4484
+        },
+        {
+          "activity" : "generate1",
+          "start" : 91,
+          "length" : 101
+        },
+        {
+          "activity" : "generate2",
+          "start" : 93,
+          "length" : 76
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 105,
+          "length" : 4
+        },
+        {
+          "activity" : "scanExamplesForR5",
+          "start" : 123,
+          "length" : 3
+        }
+      ]
+    }
+  ]
+}
